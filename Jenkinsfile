@@ -15,5 +15,6 @@ pipeline {
                             docker.build('my-app') // Build your Docker image
                         }
                     }
+                    }
     }
 }
